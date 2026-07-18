@@ -6,10 +6,10 @@ I build cross-platform mobile products and full-stack SaaS systems from product 
 
 ## Selected Work
 
-| Project | What it does | Stack | Link |
+| Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **Invo Trading Charts** | Real-time copy-trading concept with live BTC, ETH and SOL market data, on-chart TP/SL and liquidation levels, trader analytics, and simulated portfolio positions. | Flutter, Dart, Riverpod, Binance WebSocket | [View repository](https://github.com/Granderkos/invo_charts_concept) |
-| **LeadFlow** | B2B outreach SaaS with contact discovery, ICP scoring, CRM, background workers, webhook tracking, retry handling, and multi-step follow-ups. Processed 3,000+ emails. | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Docker | [Public website repository](https://github.com/Granderkos/leadflowperformance) · Application repository private |
+| **[Invo Trading Charts](https://github.com/Granderkos/invo_charts_concept)** | Real-time copy-trading concept with live BTC, ETH and SOL market data, on-chart TP/SL and liquidation levels, trader analytics, and simulated portfolio positions. | Flutter, Dart, Riverpod, Binance WebSocket | [Repository](https://github.com/Granderkos/invo_charts_concept) |
+| **[LeadFlow](https://github.com/Granderkos/leadflow-app)** | B2B outreach SaaS with contact discovery, ICP scoring, CRM, background workers, webhook tracking, retry handling, and multi-step follow-ups. Processed 3,000+ emails. | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Docker | [Application](https://github.com/Granderkos/leadflow-app) · [Website](https://github.com/Granderkos/leadflowperformance) |
 | **Farmiture** | Hydroponic-furniture startup accepted into the BIC Plzeň incubator. I lead product, website, brand, and go-to-market. | Product, web, brand, go-to-market | Private project |
 
 ## Languages & Technologies
